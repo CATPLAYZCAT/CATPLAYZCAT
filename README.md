@@ -24,7 +24,7 @@ Have I succeed? Maybe.
 <ul>
   <li>CATPLAYZ is cool</li>
   <li>I'm CATPLAYZ</li>
-  <li>This is very cringey I know lol.../li>
+  <li>This is very cringey I know lol...</li>
 </ul>
 <!--
 **CATPLAYZCAT/CATPLAYZCAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
