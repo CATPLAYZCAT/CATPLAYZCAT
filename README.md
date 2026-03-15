@@ -3,8 +3,7 @@
 
 I'm **CATPLAYZ**,  I like being a full stack developer in Malaysia.
 
-I started to learn programming because I wanted to be different from all my friends.
-Have I succeed? Maybe.
+I started to learn programming because I wanted to be much more cooler.
 
 **📚 I'm Current Learning On:**
 <ul>
